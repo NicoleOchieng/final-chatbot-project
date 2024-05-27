@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vortech.spark",
+      "sha256_cert_fingerprints": [
+        "E1:9E:66:E8:A2:24:BB:CD:50:6A:24:E6:B3:EA:74:C0:3D:41:96:76:E6:5C:69:0F:34:DB:4E:77:A7:75:92:B5",
+        "86:A1:74:DD:D6:73:2C:49:08:37:08:20:87:BB:B4:B0:23:3A:43:7C:64:30:0E:63:1F:C6:08:B4:66:ED:C0:A5",
+        "B3:D7:1E:07:7A:75:16:4D:75:78:79:A7:92:8F:C4:69:1A:E4:84:3C:94:5C:86:D7:05:7D:07:96:F8:F2:29:9E"
+      ]
+    }
+  }
+]

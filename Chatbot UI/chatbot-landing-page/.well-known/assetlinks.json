@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vortech.spark",
+    "sha256_cert_fingerprints":
+    ["E1:9E:66:E8:A2:24:BB:CD:50:6A:24:E6:B3:EA:74:C0:3D:41:96:76:E6:5C:69:0F:34:DB:4E:77:A7:75:92:B5"]
+  }
+}]
